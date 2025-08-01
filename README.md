@@ -10,4 +10,4 @@ always with an eye for quality and performance.
 - 👯 I'm looking to collaborate on anything that meets challenge and skill on a high level.
 - 💻 Currently exploring advancements in AI and ML engineering practices.
 - 🔍 Quality advocate who believes in robust testing and sustainable development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michael-jakl-90a67194/), or via mail `gh at michael dot jakl dot cc`.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michael-jakl-90a67194/), or via mail `hello at michael dot jakl dot cc`.
